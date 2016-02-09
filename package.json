@@ -5,6 +5,7 @@
     "laravel-elixir": "*"
   },
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "bootstrap-material-design": "^0.5.8",
     "jquery": "^2.2.0"
   },
