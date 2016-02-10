@@ -16,7 +16,7 @@ elixir(function(mix) {
 
     mix
         .styles([
-        "bootstrap/bootstrap.css", //I've included the css and not the min.css as I edited the said file to be able to adopt to my current structure
+        "bootstrap/bootstrap.css", //I've included the css and not the min.css as I edited the said file to be able to adapt to my current structure
         "bootstrap-materialize/bootstrap-material-design.min.css",
         "bootstrap-materialize/ripples.min.css"
     ], 'public/build/css/everything.css')
