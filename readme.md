@@ -25,9 +25,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 INSTALLATION GUIDE:
 1. Fork Repo
 2. Make sure that you have installed Composer and Node.js
-3. Open Terminal/CMD and run composer update
+3. Open Terminal/CMD and composer install and composer update (if there is an error, try sudo php5dismod xcache)
 4. Open Terminal and run npm install -global gulp
-5. npm install
+5. npm install *optional
 6. gulp and gulp watch
 7. php artisan serve
 
